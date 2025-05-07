@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Jike 自动展开动态",
+  "version": "1.0",
+  "description": "自动点击即刻动态的\"查看更多\"按钮，免去手动操作。",
+  "content_scripts": [
+    {
+      "matches": ["https://web.okjike.com/following*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": []
+} 
