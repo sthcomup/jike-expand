@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-本插件用于自动展开即刻网页版（https://web.okjike.com/following）中的所有动态，无需手动点击“查看更多”按钮，提升浏览体验。
+本插件用于自动展开即刻网页版[https://web.okjike.com/following](https://web.okjike.com/following)中的所有动态，无需手动点击“查看更多”按钮，提升浏览体验。
 
 ## 功能特性
 - 自动检测并点击所有"查看更多"按钮，动态内容自动全部展开
